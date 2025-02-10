@@ -8,16 +8,16 @@
     },
     "name": "Codium testing repository",
     "packages": {
-        "sha256": "f64f19d519e66a5bc2fd633c39c138b47f6a34a12091149695239213d2484917",
-        "update_time_utc": "2025-02-10 04:50:45 PM",
+        "sha256": "d034c565ffad9cda2b8128a14f041362c8291cef5e4b96f5e84a4ad0de24f62f",
+        "update_time_utc": "2025-02-10 16:50:45",
         "update_timestamp": 1739202645,
-        "url": "https://git.codium.lgr/codium/kicad-plugins-repo/raw/branch/main/packages.json"
+        "url": "https://github.com/codium-electronique/kicad-addons-repo/raw/refs/heads/main/packages.json"
     },
     "resources": {
-        "sha256": "9c74aa187686695b9d115bae60ac12b74950e36f163fbfb5d2b5d6f5749a9007",
-        "update_time_utc": "2025-02-10 04:50:45 PM",
+        "sha256": "f93353ab4e945c4bb23910d676eac56dadb01a4ecc490788062098c1231f98a9",
+        "update_time_utc": "2025-02-10 16:50:45",
         "update_timestamp": 1737630097,
-        "url": "https://git.codium.lgr/codium/kicad-plugins-repo/raw/branch/main/resources.zip"
+        "url": "https://github.com/codium-electronique/kicad-addons-repo/raw/refs/heads/main/resources.zip"
     }
 }
 

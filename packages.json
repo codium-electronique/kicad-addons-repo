@@ -2,39 +2,33 @@
     "packages": [
         {
             "$schema": "https://go.kicad.org/pcm/schemas/v1",
-            "author": {
-                "contact": {
-                    "web": "https://codium.fr"
-                },
-                "name": "Codium Team"
-            },
             "name": "Europlacer placement export",
             "description": "This plugin exports placement files in the Europlacer format for use with Europlacer PnPs",
             "description_full": "This plugin enables the export of placement files in the Europlacer format. It facilitates the conversion of design data into a format compatible with Europlacer machinery, ensuring seamless integration and efficient component placement during the PCB assembly process.",
-            "identifier": "fr.codium.kicad-plugins.europlacer-placement-export",
+            "identifier": "fr.codium.kicad.europlacer-placement-export",
             "type": "plugin",
             "author": {
-                "name": "Codium",
+                "name": "Codium Team"
                 "contact": {
-                    "web": "https://www.codium.fr"
-                }
+                    "web": "https://github.com/codium-electronique/kicad-europlacer-placement-export"
+                },
             },
             "maintainer": {
-                "name": "Codium",
+                "name": "Codium Team",
                 "contact": {
-                    "web": "https://www.codium.fr"
+                    "web": "https://github.com/codium-electronique/kicad-europlacer-placement-export"
                 }
             },
             "license": "Apache",
             "resources": {
-                "homepage": "https://git.codium.lgr/codium/kicad-plugin-europlacer-placement-export"
+                "homepage": "https://github.com/codium-electronique/kicad-europlacer-placement-export"
             },
             "versions": [
                 {
                     "version": "0.1.0",
-                    "status": "alpha",
+                    "status": "development",
                     "kicad_version": "8.0",
-                    "download_url": "https://git.codium.lgr/codium/kicad-plugin-europlacer-placement-export/archive/main.zip",
+                    "download_url": "https://github.com/codium-electronique/kicad-europlacer-placement-export/archive/refs/heads/main.zip"
                 }
             ]
         }
