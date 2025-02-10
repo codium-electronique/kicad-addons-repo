@@ -1,0 +1,23 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "contact": {
+            "web": "https://codium.fr"
+        },
+        "name": "Codium team"
+    },
+    "name": "Codium testing repository",
+    "packages": {
+        "sha256": "f64f19d519e66a5bc2fd633c39c138b47f6a34a12091149695239213d2484917",
+        "update_time_utc": "2025-02-10 04:50:45 PM",
+        "update_timestamp": 1739202645,
+        "url": "https://git.codium.lgr/codium/kicad-plugins-repo/raw/branch/main/packages.json"
+    },
+    "resources": {
+        "sha256": "9c74aa187686695b9d115bae60ac12b74950e36f163fbfb5d2b5d6f5749a9007",
+        "update_time_utc": "2025-02-10 04:50:45 PM",
+        "update_timestamp": 1737630097,
+        "url": "https://git.codium.lgr/codium/kicad-plugins-repo/raw/branch/main/resources.zip"
+    }
+}
+
