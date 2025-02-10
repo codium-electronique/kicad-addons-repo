@@ -14,7 +14,7 @@
         "url": "https://github.com/codium-electronique/kicad-addons-repo/raw/refs/heads/main/packages.json"
     },
     "resources": {
-        "sha256": "f93353ab4e945c4bb23910d676eac56dadb01a4ecc490788062098c1231f98a9",
+        "sha256": "16aecc7e38e056d7ca1d2435623ec0ec545ba30e645744828c71184d5c34ad57",
         "update_time_utc": "2025-02-10 16:50:45",
         "update_timestamp": 1737630097,
         "url": "https://github.com/codium-electronique/kicad-addons-repo/raw/refs/heads/main/resources.zip"
