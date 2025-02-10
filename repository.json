@@ -8,7 +8,7 @@
     },
     "name": "Codium testing repository",
     "packages": {
-        "sha256": "ed87f19abb2c5ba7cce457c09a48ce100c96e0ee5d638905ea1e034930fe137f",
+        "sha256": "e2cbdc1349c9ff7cff371e4662f0fa588f06678ba806923833b2001685e4e226",
         "update_time_utc": "2025-02-10 16:50:45",
         "update_timestamp": 1739202645,
         "url": "https://github.com/codium-electronique/kicad-addons-repo/raw/refs/heads/main/packages.json"
