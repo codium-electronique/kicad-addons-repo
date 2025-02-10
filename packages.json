@@ -8,7 +8,7 @@
             "identifier": "fr.codium.kicad.europlacer-placement-export",
             "type": "plugin",
             "author": {
-                "name": "Codium Team"
+                "name": "Codium Team",
                 "contact": {
                     "web": "https://github.com/codium-electronique/kicad-europlacer-placement-export"
                 },
